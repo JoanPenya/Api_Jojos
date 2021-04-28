@@ -1,5 +1,6 @@
 {
-    "jojos": [{
+    "jojos": [
+        {
             "id": 1,
             "Peronaje": "Jotaro Kujo",
             "edad": 17,
